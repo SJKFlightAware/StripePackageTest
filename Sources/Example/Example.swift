@@ -8,6 +8,6 @@
 import UIKit
 import Stripe
 
-class Foo: STPPaymentCardTextField {
+public class Foo: STPPaymentCardTextField {
 	
 }
